@@ -29,7 +29,7 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 </p>
 <p>
   
-[Click here to view instructions on how to create and access an Azure VM using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
+[Click here to view instructions on how to create an Azure VM and access it using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
 </p>
 <br />
 
@@ -45,8 +45,9 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 <p>
 <img src="https://i.imgur.com/3NPTV98.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/8iTnSg6.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
- <p>
-   
+ </p>
+
+<p>   
 4. Repeat the same process for the Windows VM by deleting the RDP inbound rule.
 
 <p>
@@ -60,7 +61,7 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 
 <p>
   
-[Click here to view instructions on how to create and access an Azure VM using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
+[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1/blob/main/README.md)
 </p>
 <br />
 
