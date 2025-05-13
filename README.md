@@ -33,7 +33,7 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 </p>
 <br />
 
- <p>
+<p>
 2. Navigate to the Linux VM NSG and disable the Firewall by deleting the SSH inbound rule. 
 <p>
 <img src="https://i.imgur.com/CCWUnuQ.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
@@ -45,25 +45,23 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 <p>
 <img src="https://i.imgur.com/3NPTV98.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/8iTnSg6.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
- </p>
+</p>
 
 <p>   
-4. Repeat the same process for the Windows VM by deleting the RDP inbound rule.
-
+4. Repeat the process in step 2 for the Windows VM by deleting the RDP inbound rule.
 <p>
 <img src="https://i.imgur.com/vYFfEl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 </p>
+
 <p>
 5. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
 <p>
 <img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 <p>
-  
-[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1/blob/main/README.md)
+
+[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
 </p>
-<br />
+
 
 
 
