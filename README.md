@@ -1,4 +1,4 @@
-# Security-Project-1
+# Security Project 1
 
 <p align="center">
 <img src="https://i.imgur.com/NNk2ICv.jpg"/>
@@ -18,16 +18,15 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 
 <h2>Virtulal Machine Setup in Azure </h2>
 
-
-
-
-</p>
 <br />
-1.  In Azure Create 2 VMs - 1 Windows & 1 Linux.
+
+
 <p>
+1.  In Azure Create 2 VMs - 1 Windows & 1 Linux.
+</p>
 <img src="https://i.imgur.com/QSn0enR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+
   
 [Click here to view instructions on how to create an Azure VM and access it using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
 </p>
