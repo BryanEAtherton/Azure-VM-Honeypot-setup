@@ -23,7 +23,7 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 
 
 <p>
-1.  In Azure Create 2 VMs - 1 Windows & 1 Linux.
+1.  In Azure Create 2 VMs under the same Resource Group and on the same VNet. Make 1 Windows & 1 Linux.
 </p>
 <p>
 <img src="https://i.imgur.com/QSn0enR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
