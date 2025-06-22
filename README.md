@@ -67,7 +67,7 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 <br />
 
 <p>
-1.  Here we can see a failed Ping attempt on the Windows VM because the Firewall protections are active. 
+1.  Here we can see a failed Ping attempt on the Windows VM because the local Firewall protections are active. 
 </p>
 <img src="https://i.imgur.com/3aQPBRc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
