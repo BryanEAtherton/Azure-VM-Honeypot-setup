@@ -5,7 +5,7 @@
 </p>
 
 <h1>Azure Virtual Machine Honeypot Setup</h1>
-Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in our Security Project as honeypots. We will disable the firewall protections at the Azure level and in the Windows VM to open the machines to the internet.
+Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in our Security Project as honeypots. We will disable the firewall protections at the Azure level locally in the Windows VM to open the machines to the internet.
 
 <h2>Environments and Technologies Used</h2>
 
