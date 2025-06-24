@@ -4,8 +4,8 @@
 <img src="https://i.imgur.com/NNk2ICv.jpg"/>
 </p>
 
-<h1>Azure Virtual Machine Honeypot Setup</h1>
-Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in our Security Project as honeypots. We will disable the firewall protections at the Azure level locally in the Windows VM to open the machines to the internet.
+<h1>Azure Honeynet Virtual Machine Setup</h1>
+Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in our Honeynet and SOC in Azure. We will disable the firewall protections at the Azure level and locally in the Windows VM to open the machines to the internet.
 
 <h2>Environments and Technologies Used</h2>
 
@@ -102,7 +102,7 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows and 1 Linux, to use in o
 </p>
 
 
-[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
+[Click here to return to the Azure Honeynet Setup page](https://github.com/BryanEAtherton/Azure-Honeynet-Setup/blob/main/README.md)
 </p>
 <br />
 
