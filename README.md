@@ -1,4 +1,4 @@
-# Security Project 1
+# Honeynet and SOC in Azure
 
 <p align="center">
 <img src="https://i.imgur.com/NNk2ICv.jpg"/>
